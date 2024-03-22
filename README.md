@@ -174,5 +174,5 @@
 
 6. **If all the above are invalid, please flash the factory firmware for quick verification, please check [here](./firmware/README.MD)**
 7. **Can I use an external 5V pin for power? Please see here [issues/205](https://github.com/Xinyuan-LilyGO/T-Display-S3/issues/205)**
-
+9. The default charging current is set at 500mA per hour. If you need to adjust the charging current, please see this [issue](https://github.com/Xinyuan-LilyGO/T-Display-S3/issues/230)
 
