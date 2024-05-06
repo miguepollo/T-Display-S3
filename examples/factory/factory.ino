@@ -39,7 +39,7 @@
 // Commenting this line will automatically get the time zone, provided that the SSL certificate is valid.
 // Please pay attention to check the validity of the certificate.
 // The current configuration certificate is valid until April 16, 2024
-#define CUSTOM_TIMEZONE         "CST-8"
+//#define CUSTOM_TIMEZONE         "CST-8"
 
 
 esp_lcd_panel_io_handle_t io_handle = NULL;

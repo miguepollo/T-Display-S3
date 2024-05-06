@@ -1,7 +1,7 @@
 #pragma once
 
-#define WIFI_SSID                    "Your-ssid"
-#define WIFI_PASSWORD               "Your-password"
+#define WIFI_SSID                    "MIWIFI_2G_CYTt"
+#define WIFI_PASSWORD               "ATxeH3C6"
 
 #define WIFI_CONNECT_WAIT_MAX        (30 * 1000)
 

@@ -9,8 +9,8 @@
 
 TFT_eSPI tft = TFT_eSPI();
 
-const char *ssid = "Your WIFI SSID";
-const char *password = "Your WIFI PASSWORD";
+const char *ssid = "MIWIFI_2G_CYTt";
+const char *password = "ATxeH3C6";
 
 void drawProgressBar(uint16_t x0, uint16_t y0, uint16_t w, uint16_t h, uint8_t percentage, uint16_t frameColor, uint16_t barColor)
 {
